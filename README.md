@@ -1,8 +1,11 @@
 ### 안녕하세요 👋
 AI 활용 소프트웨어 개발 및 응용 B 국비 과정을 수료한 신입 백엔드 개발자 문정수입니다.
 
+진행한 프로젝트
 JSP 를 이용한 여행리뷰 커뮤니티 프로젝트,
-웹 크롤링과 스프링 프레임워크를 활용한 쇼핑몰 프로젝트....
+웹 크롤링과 스프링 프레임워크를 활용한 쇼핑몰 프로젝트
+
+
 
 <!--
 **j38317/j38317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
