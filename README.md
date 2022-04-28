@@ -1,5 +1,5 @@
-### Hi there 👋
-ㅋㅋㅋㅋ 이거 신기하네
+### 안녕하세요 👋
+
 
 <!--
 **j38317/j38317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
