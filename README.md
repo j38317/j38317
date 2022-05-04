@@ -8,6 +8,9 @@ JSP 를 이용한 여행리뷰 커뮤니티 프로젝트
 웹 크롤링과 스프링 프레임워크를 활용한 쇼핑몰 프로젝트
 
 
+Notion - https://aspiring-broker-438.notion.site/s-Portfolio-31d747cd3746484c91eec2901908d354
+
+
 
 <!--
 **j38317/j38317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
